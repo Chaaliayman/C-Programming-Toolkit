@@ -19,4 +19,5 @@ int main ()
     printf("- %d hours\n", hours); 
     printf("- %d minutes\n",minutes ); 
     printf("- %d seconds\n", seconds );
+     return (0);
 }

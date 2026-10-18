@@ -17,4 +17,5 @@ int main(void)
 {
     int index = 5;
     printf("%d",ft_fibonacci(index));//Print Result (5)
+    return (0);
 }

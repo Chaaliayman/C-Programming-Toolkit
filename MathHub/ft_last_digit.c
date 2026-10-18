@@ -8,4 +8,5 @@ void ft_last_digit(int n)
 int main ()
 {
     ft_last_digit(2147483647);
+    return (0);
 }

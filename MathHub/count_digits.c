@@ -15,4 +15,5 @@ int main()
         i++;
     }
     printf("The number of digits is: %d\n", i);
+    return 0;
 }

@@ -59,7 +59,7 @@ char    Winning_or_losing()
     int counters_O;
     int i;
     int j;
-   int co = 0;
+    int co = 0;
     counters_X = 0;
     counters_O = 0;
     for (i = 0; i < 3; i++)

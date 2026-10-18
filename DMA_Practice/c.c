@@ -23,7 +23,7 @@ int main (void)
         printf("Profit = %.2f", *re);
     }
     else
-        printf("Neither profit nor loss.");
+    printf("Neither profit nor loss.");
     free(selling_price);
     free(cost_price);
     free(re);

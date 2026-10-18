@@ -21,4 +21,5 @@ int main()
 {
     int prime_and_not_prime = 4;
     printf("%d",ft_is_prime(prime_and_not_prime));
+    return (0);
 }

@@ -33,6 +33,7 @@ char *ft_strdup(char *src)
    dup[i] = '\0';
    return dup;
 }
+
 int main ()
 {
     char *str = "AYMAN  CHAALI";

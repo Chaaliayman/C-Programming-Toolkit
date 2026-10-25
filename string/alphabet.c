@@ -10,4 +10,5 @@ int  main()
         printf("%c", I);
         I++;
     }
+    return 0;
 }
